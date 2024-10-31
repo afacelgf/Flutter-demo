@@ -1,0 +1,17 @@
+{
+    "home":"home",
+    "title":"title",
+    "login":"login",
+    "userName":"userName",
+    "userNameRequired":"userNameRequired",
+    "password":"password",
+    "passwordRequired":"passwordRequired",
+    "userNameOrPasswordWrong":"userNameOrPasswordWrong",
+    "theme":"theme",
+    "language":"language",
+    "logout":"logout",
+    "logoutTip":"logoutTip",
+    "cancel":"cancel",
+    "yes":"yes",
+    "noDescription":"noDescription"
+}
